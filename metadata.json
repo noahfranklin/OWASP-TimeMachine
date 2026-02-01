@@ -1,0 +1,5 @@
+{
+  "name": "OWASP-TimeMachine: Cybersecurity Evolution Lab",
+  "description": "An interactive industry-grade training platform exploring the evolution of web security from 2013 to 2025. Experience vulnerabilities across three difficulty tiers (Easy, Intermediate, Impossible) and learn secure coding practices with real-world scenarios.",
+  "requestFramePermissions": []
+}
